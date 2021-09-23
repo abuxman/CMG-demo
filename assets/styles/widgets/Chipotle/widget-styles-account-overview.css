@@ -1136,7 +1136,7 @@ body {
 
 #account-overview-two-v2 {
     color: #000;
-    background-color: #eee;
+    background-color: #f2f2f2;
     padding: 20px;
     border-radius: 20px;
 }
@@ -1146,7 +1146,7 @@ body {
 }
 
 #account-overview-two-v2 .ct-points-color {
-    color: #c31010 !important;
+    color: #ad2118 !important;
 }
 
 #account-overview-two-v2 .logout-link-container {
@@ -1167,6 +1167,15 @@ body {
     height: 80px;
     background-repeat: no-repeat;
     background-size: contain;
+}
+
+#account-overview-two-v2>div.container>div.user-container>section.user-info>img {
+    display: none;
+}
+
+#account-overview-two-v2>div.container {
+    display: flex;
+    align-items: center;
 }
 
 #activity-history-v2 {

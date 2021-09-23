@@ -41,3 +41,8 @@ body>iframe:nth-child(5) {
     min-width: 86%;
     width: auto;
 }
+
+#accountOverview {
+    width: 100%;
+    max-width: 650px;
+}
