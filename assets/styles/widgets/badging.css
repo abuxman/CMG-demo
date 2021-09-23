@@ -79,7 +79,6 @@ body .reward .title {
 @media (max-width: 548px) {
     #activity-list-v2 .activity {
         max-width: calc(50% - 7px);
-        margin-bottom: 20px
     }
     #activity-list-v2 .activity:nth-child(odd) {
         margin-right: 14px

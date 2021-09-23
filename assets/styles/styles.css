@@ -46,3 +46,16 @@ body>iframe:nth-child(5) {
     width: 100%;
     max-width: 650px;
 }
+
+#cmg-app-content>div.router-view-container>div>div.extras-header>div.achievements-section.section>div.achievements-descriptions-container {
+    bottom: 3.25rem;
+}
+
+#cmg-app-content>div.router-view-container>div>div.extras-header>div.achievements-section.section {
+    margin: auto 2.5rem;
+}
+
+.pointsHistory {
+    display: flex;
+    width: 80%;
+}
