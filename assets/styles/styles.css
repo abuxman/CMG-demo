@@ -1,0 +1,43 @@
+body>iframe:nth-child(3) {
+    display: none;
+}
+
+body>iframe:nth-child(4) {
+    display: none;
+}
+
+body>iframe:nth-child(5) {
+    display: none;
+}
+
+.reward-widget-heading {
+    font-family: Trade Gothic LT Bold, Helvetica Neue, Arial, sans-serif, Apple Color Emoji, Segoe UI Emoji, Segoe UI Symbol;
+    font-weight: 700;
+    color: #451400;
+    -webkit-font-smoothing: antialiased;
+    box-sizing: border-box;
+    font-size: 1.875rem;
+    display: inline;
+    border-bottom-color: rgb(223, 217, 211);
+    border-bottom-style: solid;
+    border-bottom-width: 1px;
+    width: 100%;
+    margin-top: 1.75rem;
+    padding-bottom: 1.75rem;
+}
+
+.widget-rewards-container {
+    font-family: Nunito, Helvetica Neue, Arial, sans-serif, Apple Color Emoji, Segoe UI Emoji, Segoe UI Symbol;
+    -webkit-font-smoothing: antialiased;
+    box-sizing: border-box;
+    background-color: #fff;
+    padding-left: 1.25rem;
+    padding-right: 1.25rem;
+    height: fit-content;
+    padding-top: 1.25rem;
+    padding-bottom: 1.25rem;
+    margin-left: 6rem;
+    margin-right: 6rem;
+    min-width: 86%;
+    width: auto;
+}
