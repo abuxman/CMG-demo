@@ -80,9 +80,9 @@ body .reward .title {
     #activity-list-v2 .activity {
         max-width: calc(50% - 7px);
     }
-    #activity-list-v2 .activity:nth-child(odd) {
+    /* #activity-list-v2 .activity:nth-child(odd) {
         margin-right: 14px
-    }
+    } */
     /* #activity-list-v2 .container {
         margin-top: 5px;
         padding-bottom: 5px
@@ -169,4 +169,8 @@ body .reward .title {
 
 #activity-list-v2 .activity.locked .title span:before {
     content: 'Locked: '
+}
+
+#activity-list-v2>div.container>ul {
+    display: flex;
 }
