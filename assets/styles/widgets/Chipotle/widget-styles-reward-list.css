@@ -1461,7 +1461,7 @@ body {
 #reward-list-v2 .rewards .reward:nth-child(n) .content:hover .row p.points.ct-points-color,
 #reward-list-v2 .rewards .reward:nth-child(n) .content:focus .row p.points.ct-points-color,
 #reward-list-v2 .rewards .reward:nth-child(n) .content:focus-within .row p.points.ct-points-color {
-    background: #ad2118 !important;
+    background: #441400 !important;
     box-shadow: 0 0 0 2px #695539 inset;
     color: #fff !important;
 }
