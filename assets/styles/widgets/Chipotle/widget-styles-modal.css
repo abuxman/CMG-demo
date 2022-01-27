@@ -2263,19 +2263,6 @@ button.btn.btn-secondary[ng-click="doVerification()"]:focus {
     color: #fff !important;
 }
 
-.description.ng-binding::after {
-    content: "test";
-    content: "\ Check out Chipotle Hacks on TikTok >";
-    cursor: pointer;
-    color: #fff;
-    background: #c64633;
-    padding: 6px;
-    display: flex;
-    border-radius: 20px;
-    margin: 5px auto;
-    width: 90%;
-}
-
 .description.ng-binding {
     margin: 0 auto 10px auto !important;
     text-align: center !important;
